@@ -1,0 +1,38 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name": "Samsung m40",
+            "color": "red",
+            "price": 15000,
+            "category":"Mobile",
+            "brand": "Samsung",
+            "photo": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500&h=100&dpr=1"
+        },
+        {
+            "id":2,
+            "name": "Samsung m40",
+            "color": "black",
+            "price": 15000,
+            "category":"Mobile",
+            "brand": "Samsung",
+            "photo": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500&h=100&dpr=1"
+        },{
+            "id":3,
+            "name": "Samsung m40",
+            "color": "black",
+            "price": 15000,
+            "category":"Mobile",
+            "brand": "Samsung",
+            "photo": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500&h=100&dpr=1"
+        },{
+            "id":4,
+            "name": "Samsung m40",
+            "color": "black",
+            "price": 15000,
+            "category":"Mobile",
+            "brand": "Samsungs",
+            "photo": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500&h=100&dpr=1"
+        }
+    ]
+}
